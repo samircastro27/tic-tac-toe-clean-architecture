@@ -1,0 +1,1 @@
+export type { BoardRepository } from "./board.repository";
